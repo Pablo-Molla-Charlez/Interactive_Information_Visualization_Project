@@ -99,9 +99,4 @@ Welcome! This is an interactive French rental affordability visualization projec
 
 If you would like to contribute or have suggestions for improvements, please feel free to open a [Pull Request](https://github.com/) or an [Issue](https://github.com/). Your feedback is invaluable!
 
-> **If you find this project helpful**, please give it a ⭐ Star so that others can discover our French rental visualization project!
-
----
-
 **Merci beaucoup!** Thank you for your interest and support. We hope this project helps you gain better insights into rental trends as well as the distribution of universities and cycling stations across France. Enjoy exploring!
-```
