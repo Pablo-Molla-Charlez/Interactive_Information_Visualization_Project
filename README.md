@@ -105,7 +105,3 @@ If you would like to contribute or have suggestions for improvements, please fee
 
 **Merci beaucoup!** Thank you for your interest and support. We hope this project helps you gain better insights into rental trends as well as the distribution of universities and cycling stations across France. Enjoy exploring!
 ```
-
----
-
-Feel free to adjust any URLs or specific details to match your repository and deployment settings. Enjoy your enhanced visualization project!
