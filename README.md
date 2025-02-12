@@ -32,6 +32,16 @@ Welcome! This is an interactive French rental affordability visualization projec
 ```bash
 .
 ├── data/
+│   ├── department_distance/
+│       ├── department_code_10.json
+│       ├── department_code_13.json
+│       ├── ...
+│   ├── bike_station.png                  // Bike Station image used for the map visualization
+│   ├── marker_map_bike_green.png         // Bike Station (matching conditions) image
+│   ├── marker_map_bike_red.png           // Bike Station (not matching conditions) image
+│   ├── private.png                       // Private Institutions image used for the map visualization
+│   ├── public.png                        // Private Institutions image used for the map visualization
+│   ├── cycling_stations_statistic.json   // Counts Public vs Private per department of cycling stations
 │   ├── departements.geojson              // Geographic data for French department boundaries
 │   ├── departement_rental_data.json      // Rental statistics data for each department
 │   ├── cycing_stations_departements.json // Cycling station data and additional information
