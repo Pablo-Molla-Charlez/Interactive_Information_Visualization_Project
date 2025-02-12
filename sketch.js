@@ -564,10 +564,12 @@ function drawTooltip(item) {
     if (item.type === "station") {
       let st = item.data;
       infoText = `Cycling Station
+        Coordinates_XY: (${st.X}, ${st.Y})
         Capacity: ${st.capacite}
         Access: ${st.acces}
         Furniture: ${st.mobilier}
-        Free: ${st.gratuit}`;
+        Free: ${st.gratuit}
+        Surveillance: ${st.surveillance}`;
     } else if (item.type === "etablissement") {
       let e = item.data;
       infoText = `Institution Name: ${e["name"]}
