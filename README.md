@@ -29,7 +29,7 @@ Welcome! This is an interactive French rental affordability visualization projec
 
 ## File Structure 📁
 
-
+```bash
 .
 ├── data/
 │   ├── departements.geojson              // Geographic data for French department boundaries
@@ -40,12 +40,13 @@ Welcome! This is an interactive French rental affordability visualization projec
 ├── sketch.js                             // Main p5.js code
 ├── index.html                            // Main webpage that includes p5.js & the script
 └── README.md                             // Project overview and instructions
-
+```
 
 ## Visual Demonstration 💶
 
 ![Visualization Example](images/result.jpg)
-
+![Visualization Example](images/result_1.png)
+![Visualization Example](images/result_2.png)
 
 ## Future Plans 🚀
 
